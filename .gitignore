@@ -1,0 +1,4 @@
+*.class
+Model/*.class
+View_Controller/*.class
+*.png
